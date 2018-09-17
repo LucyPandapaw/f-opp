@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>59</integer>
+		<key>Name</key>
+		<string>1 Apple (4 oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>151</integer>
+		<key>Name</key>
+		<string>1 Banana (6 oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>100</integer>
+		<key>Name</key>
+		<string>1 cup Grapes (250 ml)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>53</integer>
+		<key>Name</key>
+		<string>1 Orange (4 oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>82</integer>
+		<key>Name</key>
+		<string>1 Pear (5oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>67</integer>
+		<key>Name</key>
+		<string>1 Peach (6oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>82</integer>
+		<key>Name</key>
+		<string>1 cup Pineapple</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>53</integer>
+		<key>Name</key>
+		<string>1 cup Strawberry</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>50</integer>
+		<key>Name</key>
+		<string>1 cup Watermelon</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>27</integer>
+		<key>Name</key>
+		<string>1 cup Asparagus</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>45</integer>
+		<key>Name</key>
+		<string>1 cup Broccoli</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>50</integer>
+		<key>Name</key>
+		<string>1 cup Carrots</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>17</integer>
+		<key>Name</key>
+		<string>1 Cucumber (4oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>35</integer>
+		<key>Name</key>
+		<string>1 cup Eggplant</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>5</integer>
+		<key>Name</key>
+		<string>1 cup Lettuce</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>22</integer>
+		<key>Name</key>
+		<string>1 cup Tomato</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>142</integer>
+		<key>Name</key>
+		<string>Regular cooked beef (2 oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>136</integer>
+		<key>Name</key>
+		<string>Cooked chicken (2oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>86</integer>
+		<key>Name</key>
+		<string>Tofu (4oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>78</integer>
+		<key>Name</key>
+		<string>1 Large egg</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>136</integer>
+		<key>Name</key>
+		<string>Cooked fish (2oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>137</integer>
+		<key>Name</key>
+		<string>Cooked pork (2oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>56</integer>
+		<key>Name</key>
+		<string>Cooked Shrimp (2oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>75</integer>
+		<key>Name</key>
+		<string>1 slice White bread (1oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>102</integer>
+		<key>Name</key>
+		<string>1 tablespoon Butter (14.2g)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>551</integer>
+		<key>Name</key>
+		<string>3 cups Caesar salad</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>285</integer>
+		<key>Name</key>
+		<string>1 sandwich Cheeseburger</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>250</integer>
+		<key>Name</key>
+		<string>1 sandwich Hamburger</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>155</integer>
+		<key>Name</key>
+		<string>Dark Chocolate (1oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>132</integer>
+		<key>Name</key>
+		<string>1 cup Corn</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>285</integer>
+		<key>Name</key>
+		<string>1 slice (14&quot;) Pizza</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>130</integer>
+		<key>Name</key>
+		<string>Potato (6oz.)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>206</integer>
+		<key>Name</key>
+		<string>1 cup Cooked rice</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>200</integer>
+		<key>Name</key>
+		<string>1 6&quot; Subway Turkey Sandwich</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>154</integer>
+		<key>Name</key>
+		<string>1 can Beer</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>150</integer>
+		<key>Name</key>
+		<string>1 can Coca-Cola Classic</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>1 can Diet Coke</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>122</integer>
+		<key>Name</key>
+		<string>1 cup Milk (2%)</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>111</integer>
+		<key>Name</key>
+		<string>1 cup Orange Juice</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>117</integer>
+		<key>Name</key>
+		<string>1 cup Apple cider</string>
+	</dict>
+	<dict>
+		<key>CaloriePerServing</key>
+		<integer>110</integer>
+		<key>Name</key>
+		<string>1 cup Yogurt (non-fat)</string>
+	</dict>
+</array>
+</plist>

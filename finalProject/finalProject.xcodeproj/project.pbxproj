@@ -7,19 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5636628B21263E2800791254 /* finalProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5636628921263E2700791254 /* finalProject.xcdatamodeld */; };
+		56D957BC2123A6FC00CEC8BD /* Exercises.plist in Resources */ = {isa = PBXBuildFile; fileRef = 56D957BB2123A6FC00CEC8BD /* Exercises.plist */; };
+		56ED33DA212E24B200314DBB /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56ED33D9212E24B200314DBB /* UserService.swift */; };
+		56ED33DB212E27A000314DBB /* FoodTypes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 56D957BD2123A78700CEC8BD /* FoodTypes.plist */; };
+		DA02001D2123779E000DD0F6 /* DietService.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA02001C2123779E000DD0F6 /* DietService.swift */; };
+		DA2761612123D737000F2E49 /* WorkoutListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2761602123D736000F2E49 /* WorkoutListController.swift */; };
+		DA2761632123D74D000F2E49 /* WorkoutDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2761622123D74D000F2E49 /* WorkoutDetailController.swift */; };
+		DA2761652123D762000F2E49 /* MealListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2761642123D762000F2E49 /* MealListController.swift */; };
+		DA2761672123D779000F2E49 /* MealDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2761662123D778000F2E49 /* MealDetailController.swift */; };
+		DA2761692123D8A3000F2E49 /* CalorieCalculationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2761682123D8A3000F2E49 /* CalorieCalculationController.swift */; };
 		DA2A1A86211E3514007F8A11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1A85211E3514007F8A11 /* AppDelegate.swift */; };
 		DA2A1A8B211E3514007F8A11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA2A1A89211E3514007F8A11 /* Main.storyboard */; };
-		DA2A1A8E211E3514007F8A11 /* finalProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1A8C211E3514007F8A11 /* finalProject.xcdatamodeld */; };
 		DA2A1A90211E3516007F8A11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA2A1A8F211E3516007F8A11 /* Assets.xcassets */; };
 		DA2A1A93211E3516007F8A11 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA2A1A91211E3516007F8A11 /* LaunchScreen.storyboard */; };
 		DA2A1A9E211E3516007F8A11 /* finalProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1A9D211E3516007F8A11 /* finalProjectTests.swift */; };
 		DA2A1AA9211E3516007F8A11 /* finalProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1AA8211E3516007F8A11 /* finalProjectUITests.swift */; };
-		DA2A1AB9211E3CA1007F8A11 /* WelcomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1AB8211E3CA1007F8A11 /* WelcomeController.swift */; };
 		DA2A1ABB211E3D0B007F8A11 /* UserStatusController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1ABA211E3D0B007F8A11 /* UserStatusController.swift */; };
 		DA2A1ABD211E3DA0007F8A11 /* DailyCalorieController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1ABC211E3DA0007F8A11 /* DailyCalorieController.swift */; };
-		DA2A1ABF211E3E07007F8A11 /* ExerciseCalculationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1ABE211E3E07007F8A11 /* ExerciseCalculationController.swift */; };
-		DA2A1AC1211E3E24007F8A11 /* MealCalculationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1AC0211E3E24007F8A11 /* MealCalculationController.swift */; };
 		DA2A1AC3211E3E3E007F8A11 /* AboutController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2A1AC2211E3E3E007F8A11 /* AboutController.swift */; };
+		DA38C022211E699000AA357D /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA38C01A211E699000AA357D /* Meal.swift */; };
+		DA38C024211E699000AA357D /* FoodType.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA38C01C211E699000AA357D /* FoodType.swift */; };
+		DA38C026211E699000AA357D /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA38C01E211E699000AA357D /* Exercise.swift */; };
+		DA38C028211E699000AA357D /* Workout.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA38C020211E699000AA357D /* Workout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,10 +50,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5636628A21263E2700791254 /* finalProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = finalProject.xcdatamodel; sourceTree = "<group>"; };
+		56D957BB2123A6FC00CEC8BD /* Exercises.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Exercises.plist; sourceTree = "<group>"; };
+		56D957BD2123A78700CEC8BD /* FoodTypes.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = FoodTypes.plist; sourceTree = "<group>"; };
+		56ED33D9212E24B200314DBB /* UserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
+		DA02001C2123779E000DD0F6 /* DietService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DietService.swift; sourceTree = "<group>"; };
+		DA2761602123D736000F2E49 /* WorkoutListController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutListController.swift; sourceTree = "<group>"; };
+		DA2761622123D74D000F2E49 /* WorkoutDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutDetailController.swift; sourceTree = "<group>"; };
+		DA2761642123D762000F2E49 /* MealListController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealListController.swift; sourceTree = "<group>"; };
+		DA2761662123D778000F2E49 /* MealDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealDetailController.swift; sourceTree = "<group>"; };
+		DA2761682123D8A3000F2E49 /* CalorieCalculationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalorieCalculationController.swift; sourceTree = "<group>"; };
 		DA2A1A82211E3514007F8A11 /* finalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = finalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA2A1A85211E3514007F8A11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DA2A1A8A211E3514007F8A11 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DA2A1A8D211E3514007F8A11 /* finalProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = finalProject.xcdatamodel; sourceTree = "<group>"; };
 		DA2A1A8F211E3516007F8A11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA2A1A92211E3516007F8A11 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA2A1A94211E3516007F8A11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,12 +72,13 @@
 		DA2A1AA4211E3516007F8A11 /* finalProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = finalProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA2A1AA8211E3516007F8A11 /* finalProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = finalProjectUITests.swift; sourceTree = "<group>"; };
 		DA2A1AAA211E3516007F8A11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DA2A1AB8211E3CA1007F8A11 /* WelcomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeController.swift; sourceTree = "<group>"; };
 		DA2A1ABA211E3D0B007F8A11 /* UserStatusController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserStatusController.swift; sourceTree = "<group>"; };
 		DA2A1ABC211E3DA0007F8A11 /* DailyCalorieController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyCalorieController.swift; sourceTree = "<group>"; };
-		DA2A1ABE211E3E07007F8A11 /* ExerciseCalculationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseCalculationController.swift; sourceTree = "<group>"; };
-		DA2A1AC0211E3E24007F8A11 /* MealCalculationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealCalculationController.swift; sourceTree = "<group>"; };
 		DA2A1AC2211E3E3E007F8A11 /* AboutController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutController.swift; sourceTree = "<group>"; };
+		DA38C01A211E699000AA357D /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		DA38C01C211E699000AA357D /* FoodType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodType.swift; sourceTree = "<group>"; };
+		DA38C01E211E699000AA357D /* Exercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise.swift; sourceTree = "<group>"; };
+		DA38C020211E699000AA357D /* Workout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Workout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +106,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DA02001921237770000DD0F6 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				DA02001C2123779E000DD0F6 /* DietService.swift */,
+				56ED33D9212E24B200314DBB /* UserService.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
 		DA2A1A79211E3514007F8A11 = {
 			isa = PBXGroup;
 			children = (
@@ -110,17 +139,16 @@
 			isa = PBXGroup;
 			children = (
 				DA2A1A85211E3514007F8A11 /* AppDelegate.swift */,
-				DA2A1AB8211E3CA1007F8A11 /* WelcomeController.swift */,
-				DA2A1ABA211E3D0B007F8A11 /* UserStatusController.swift */,
-				DA2A1ABC211E3DA0007F8A11 /* DailyCalorieController.swift */,
-				DA2A1ABE211E3E07007F8A11 /* ExerciseCalculationController.swift */,
-				DA2A1AC0211E3E24007F8A11 /* MealCalculationController.swift */,
-				DA2A1AC2211E3E3E007F8A11 /* AboutController.swift */,
+				DA02001921237770000DD0F6 /* Service */,
+				DA38C02B211E6A4B00AA357D /* Controller */,
+				DA38C02A211E6A1800AA357D /* DataModel */,
 				DA2A1A89211E3514007F8A11 /* Main.storyboard */,
 				DA2A1A8F211E3516007F8A11 /* Assets.xcassets */,
 				DA2A1A91211E3516007F8A11 /* LaunchScreen.storyboard */,
 				DA2A1A94211E3516007F8A11 /* Info.plist */,
-				DA2A1A8C211E3514007F8A11 /* finalProject.xcdatamodeld */,
+				5636628921263E2700791254 /* finalProject.xcdatamodeld */,
+				56D957BB2123A6FC00CEC8BD /* Exercises.plist */,
+				56D957BD2123A78700CEC8BD /* FoodTypes.plist */,
 			);
 			path = finalProject;
 			sourceTree = "<group>";
@@ -141,6 +169,32 @@
 				DA2A1AAA211E3516007F8A11 /* Info.plist */,
 			);
 			path = finalProjectUITests;
+			sourceTree = "<group>";
+		};
+		DA38C02A211E6A1800AA357D /* DataModel */ = {
+			isa = PBXGroup;
+			children = (
+				DA38C01A211E699000AA357D /* Meal.swift */,
+				DA38C01C211E699000AA357D /* FoodType.swift */,
+				DA38C01E211E699000AA357D /* Exercise.swift */,
+				DA38C020211E699000AA357D /* Workout.swift */,
+			);
+			path = DataModel;
+			sourceTree = "<group>";
+		};
+		DA38C02B211E6A4B00AA357D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				DA2A1ABA211E3D0B007F8A11 /* UserStatusController.swift */,
+				DA2A1ABC211E3DA0007F8A11 /* DailyCalorieController.swift */,
+				DA2A1AC2211E3E3E007F8A11 /* AboutController.swift */,
+				DA2761602123D736000F2E49 /* WorkoutListController.swift */,
+				DA2761622123D74D000F2E49 /* WorkoutDetailController.swift */,
+				DA2761642123D762000F2E49 /* MealListController.swift */,
+				DA2761662123D778000F2E49 /* MealDetailController.swift */,
+				DA2761682123D8A3000F2E49 /* CalorieCalculationController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,7 +301,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56D957BC2123A6FC00CEC8BD /* Exercises.plist in Resources */,
 				DA2A1A93211E3516007F8A11 /* LaunchScreen.storyboard in Resources */,
+				56ED33DB212E27A000314DBB /* FoodTypes.plist in Resources */,
 				DA2A1A90211E3516007F8A11 /* Assets.xcassets in Resources */,
 				DA2A1A8B211E3514007F8A11 /* Main.storyboard in Resources */,
 			);
@@ -274,13 +330,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA2A1AC1211E3E24007F8A11 /* MealCalculationController.swift in Sources */,
+				DA2761672123D779000F2E49 /* MealDetailController.swift in Sources */,
 				DA2A1ABB211E3D0B007F8A11 /* UserStatusController.swift in Sources */,
-				DA2A1A8E211E3514007F8A11 /* finalProject.xcdatamodeld in Sources */,
-				DA2A1AB9211E3CA1007F8A11 /* WelcomeController.swift in Sources */,
+				DA2761652123D762000F2E49 /* MealListController.swift in Sources */,
+				DA38C026211E699000AA357D /* Exercise.swift in Sources */,
+				DA38C022211E699000AA357D /* Meal.swift in Sources */,
+				DA2761632123D74D000F2E49 /* WorkoutDetailController.swift in Sources */,
+				DA38C028211E699000AA357D /* Workout.swift in Sources */,
 				DA2A1ABD211E3DA0007F8A11 /* DailyCalorieController.swift in Sources */,
 				DA2A1A86211E3514007F8A11 /* AppDelegate.swift in Sources */,
-				DA2A1ABF211E3E07007F8A11 /* ExerciseCalculationController.swift in Sources */,
+				DA2761612123D737000F2E49 /* WorkoutListController.swift in Sources */,
+				DA2761692123D8A3000F2E49 /* CalorieCalculationController.swift in Sources */,
+				DA02001D2123779E000DD0F6 /* DietService.swift in Sources */,
+				56ED33DA212E24B200314DBB /* UserService.swift in Sources */,
+				DA38C024211E699000AA357D /* FoodType.swift in Sources */,
+				5636628B21263E2800791254 /* finalProject.xcdatamodeld in Sources */,
 				DA2A1AC3211E3E3E007F8A11 /* AboutController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -610,12 +674,12 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		DA2A1A8C211E3514007F8A11 /* finalProject.xcdatamodeld */ = {
+		5636628921263E2700791254 /* finalProject.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				DA2A1A8D211E3514007F8A11 /* finalProject.xcdatamodel */,
+				5636628A21263E2700791254 /* finalProject.xcdatamodel */,
 			);
-			currentVersion = DA2A1A8D211E3514007F8A11 /* finalProject.xcdatamodel */;
+			currentVersion = 5636628A21263E2700791254 /* finalProject.xcdatamodel */;
 			path = finalProject.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Golf(using cart)</string>
+		<key>CaloriesPerHour</key>
+		<integer>246</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kayaking</string>
+		<key>CaloriesPerHour</key>
+		<integer>352</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Softball/Baseball</string>
+		<key>CaloriesPerHour</key>
+		<integer>359</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Tennis(general)</string>
+		<key>CaloriesPerHour</key>
+		<integer>492</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bicycling(12-14 mph, moderate)</string>
+		<key>CaloriesPerHour</key>
+		<integer>562</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Walking(3.5 mph)</string>
+		<key>CaloriesPerHour</key>
+		<integer>267</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Basketball(general)</string>
+		<key>CaloriesPerHour</key>
+		<integer>422</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Soccer(general)</string>
+		<key>CaloriesPerHour</key>
+		<integer>492</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Vinyasa Yoga</string>
+		<key>CaloriesPerHour</key>
+		<integer>594</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Football(general)</string>
+		<key>CaloriesPerHour</key>
+		<integer>494</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Running(9 minute mile)</string>
+		<key>CaloriesPerHour</key>
+		<integer>773</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Swimming(free-style, moderate)</string>
+		<key>CaloriesPerHour</key>
+		<integer>492</integer>
+	</dict>
+</array>
+</plist>
